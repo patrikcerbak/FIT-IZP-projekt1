@@ -1,3 +1,2 @@
-# FIT-IZP-projekt1
-## Password Check
+# Password Check
 Projekt 1 do předmětu IZP.
